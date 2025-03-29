@@ -476,7 +476,7 @@ def get_dummy_library():
             'genre': 'Electronic',
             'duration': 253,
             'year': '2023',
-            'art': 'https://via.placeholder.com/300/FF4500/FFFFFF?text=Cyber+Soul',
+            'art': 'https://ranbond-pharmaceuticals.s3.us-east-1.amazonaws.com/Cyber+Soul.webp',
             'path': 'dummy_path_5'
         }
     ]
